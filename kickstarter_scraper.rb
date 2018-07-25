@@ -8,4 +8,4 @@ def create_project_hash
 end
 
 
-create_project_hashs
+create_project_hash
